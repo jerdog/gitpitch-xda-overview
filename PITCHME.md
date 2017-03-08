@@ -23,7 +23,7 @@
 #HSLIDE
 ## 2005 - 42455 users
 
-##HSLIDE?image=assets/xda_forum_2005.png
+#HSLIDE?image=assets/xda_forum_2005.png
 
 #HSLIDE
 ## Exponential Growth

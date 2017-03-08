@@ -2,10 +2,7 @@
 ![Image-Absolute](assets/xda-inverse-transparent-logo.png)
 
 #HSLIDE
-
 ## The Evolution of the XDA Community
-
-#HSLIDE
 ### Jeremy Meiss
 #### Community/Developer Relations
 ![Image-Absolute](assets/profile_pic.jpeg)

@@ -1,6 +1,6 @@
 # XDA Labs
 ## Presentation using GitPitch
-Link: https://gitpitch.com/jerdog/gitpitch-xda-labs/master?grs=gitlab
+Link: https://gitpitch.com/jerdog/gitpitch-xda-overview/master
 
 ## Offline Presenting
 - Download: https://gitpitch.com/pitchme/offline/gitlab/jerdog/gitpitch-xda-labs/master/white/PITCHME.zip

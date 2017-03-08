@@ -12,19 +12,19 @@
 - Group of friends wanting to modify these "XDA" devices from O2 <!-- .element: class="fragment" -->
 - Have undergone many a facelift over the years <!-- .element: class="fragment" -->
 
-#HSLIDE
-## 2003 - 3000 users
+#VSLIDE
+### 2003 - 3000 users
 ![Image-Absolute](assets/xda_forum_2003.png)
 
-#HSLIDE
-## 2004 - 9979 users
+#VSLIDE
+### 2004 - 9979 users
 ![Image-Absolute](assets/xda_forum_2004.png)
 
-#HSLIDE
-## 2005 - 42455 users
+#VSLIDE
+### 2005 - 42455 users
 ![Image-Absolute](assets/xda_forum_2005.png)
 
-#HSLIDE
+#VSLIDE
 ## Exponential Growth
 - 2006 - 162644 users
 - 2007 - 519813 users <!-- .element: class="fragment" -->
@@ -33,23 +33,23 @@
 - 2010 - Look updated, 3mil users <!-- .element: class="fragment" -->
 - 2011 - 4.2mil users <!-- .element: class="fragment" -->
 
-#HSLIDE
-## 2012-13
-### Modern Look / 4.8mil => 5.4mil users
+#VSLIDE
+### 2012-13
+#### Modern Look / 4.8mil => 5.4mil users
 ![Image-Absolute](assets/xda_forum_2012.png)
 
-#HSLIDE
-## 2014-15
-### Integrated Portal / 6mil => 6.9mil users
+#VSLIDE
+### 2014-15
+#### Integrated Portal / 6mil => 6.9mil users
 ![Image-Absolute](assets/xda_forum_2014.png)
 
-#HSLIDE
-## 2016-17
-### Streamlined Look / 7.9mil users
+#VSLIDE
+### 2016-17
+#### Streamlined Look / 7.9mil users
 ![Image-Absolute](assets/xda_forum_2016.png)
 
-#HSLIDE
-## India 2nd Largest Base of users
+#VSLIDE
+### India 2nd Largest Base of users
 ![Image-Absolute](assets/xda_users_in_india.png)
 
 #HSLIDE
@@ -146,7 +146,7 @@
 #VSLIDE
 ### Other Goodies
 - Wallpaper download and install
-- Receive notification of updates to any app on your device, if it's in Labs, regardless of distribution platform used (Play, Amazon, etc.) 
+- Receive notification of updates to any app on your device, if it's in Labs, regardless of distribution platform used (Play, Amazon, etc.)
 
 #HSLIDE
 ## Why Labs?
@@ -155,6 +155,26 @@
 - Good proving ground for your app <!-- .element: class="fragment" -->
 - Don't worry about Google killing your developer account! <!-- .element: class="fragment" -->
 - Innovate freely, and build cool things <!-- .element: class="fragment" -->
+
+#VSLIDE
+### Pro-Developer
+- We allow all types of apps (including stuff not allowed on Play)
+- We don't remove apps without warning and without communication to the developer <!-- .element: class="fragment" -->
+- We enable developers to sell apps, receiving 100% of the proceeds directly <!-- .element: class="fragment" -->
+- If you have an issue, there's a real person to work with, not an algorhithm or robot <!-- .element: class="fragment" -->
+
+#VSLIDE
+## Easy to Add
+- Not complicated
+- Quick submission process (3 steps, 4 if your app is for sale) <!-- .element: class="fragment" -->
+- No need to follow 10 steps to make sure you don't get kicked out <!-- .element: class="fragment" -->
+
+#VSLIDE
+![Image-Absolute](assets/10-tips-google-play.png)
+
+#HSLIDE
+## Get XDA Labs
+![Image-Absolute](assets/xda_labs_qr_big-300x300.png)
 
 #HSLIDE
 ## Questions

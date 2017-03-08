@@ -3,7 +3,7 @@
 Link: https://gitpitch.com/jerdog/gitpitch-xda-overview/master
 
 ## Offline Presenting
-- Download: https://gitpitch.com/pitchme/offline/gitlab/jerdog/gitpitch-xda-labs/master/white/PITCHME.zip
+- Download: https://gitpitch.com/pitchme/offline/github/jerdog/gitpitch-xda-overview/master/white/PITCHME.zip
 - Unzip to local directory
 - Run the following (found in local_view.sh)
 

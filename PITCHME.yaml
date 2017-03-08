@@ -1,0 +1,4 @@
+theme : night
+logo : assets/sm_xda-logo.png
+theme-override : assets/adjusted.css
+transition : convex

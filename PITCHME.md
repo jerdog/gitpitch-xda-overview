@@ -4,7 +4,6 @@
 #HSLIDE
 
 ## The Evolution of the XDA Community
-![Image-Absolute](assets/xda-inverse-transparent-logo.png)
 
 #HSLIDE
 ## In the beginning...
@@ -23,7 +22,8 @@
 
 #VSLIDE
 ## 2005 - 42455 users
-![Image-Absolute](assets/xda_forum_2005.png)
+
+##VSLIDE?image=assets/xda_forum_2005.png
 
 #VSLIDE
 ## Exponential Growth

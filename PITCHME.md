@@ -8,9 +8,9 @@
 #HSLIDE
 ## In the beginning...
 
-- Began in Amsterdam Late 2003
-- Group of friends wanting to modify these "XDA" devices from O2
-- Have undergone many a facelift over the years
+- Began in Amsterdam Late 2003 
+- Group of friends wanting to modify these "XDA" devices from O2 <!-- .element: class="fragment" -->
+- Have undergone many a facelift over the years <!-- .element: class="fragment" -->
 
 #HSLIDE
 ## 2003 - 3000 users
@@ -28,24 +28,26 @@
 #HSLIDE
 ## Exponential Growth
 - 2006 - 162644 users
-- 2007 - 519813 users
-- 2008 - 1.2mil users (Android arrives on XDA)
-- 2009 - 2mil users
-- 2010 - Look updated, 3mil users
-- 2011 - 4.2mil users
+- 2007 - 519813 users <!-- .element: class="fragment" -->
+- 2008 - 1.2mil users (Android arrives on XDA) <!-- .element: class="fragment" -->
+- 2009 - 2mil users <!-- .element: class="fragment" -->
+- 2010 - Look updated, 3mil users <!-- .element: class="fragment" -->
+- 2011 - 4.2mil users <!-- .element: class="fragment" -->
 
 #HSLIDE
-## 2012-13 - Modern Look / 4.8mil => 5.4mil users
+## 2012-13
+### Modern Look / 4.8mil => 5.4mil users
 ![Image-Absolute](assets/xda_forum_2012.png)
 
 #HSLIDE
-## 2014-15 - Integrated Portal / 6mil => 6.9mil users
+## 2014-15
+### Integrated Portal / 6mil => 6.9mil users
 ![Image-Absolute](assets/xda_forum_2014.png)
 
 #HSLIDE
-## 2016-17 - Streamlined Look / 7.9mil users
-![Image-Absolute](assets/xda_forum_2014.png)
-
+## 2016-17
+### Streamlined Look / 7.9mil users
+![Image-Absolute](assets/xda_forum_2016.png)
 
 
 #HSLIDE

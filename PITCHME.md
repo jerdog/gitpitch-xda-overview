@@ -6,6 +6,11 @@
 ## The Evolution of the XDA Community
 
 #HSLIDE
+### Jeremy Meiss
+#### Community/Developer Relations
+![Image-Absolute](assets/profile_pic.jpeg)
+
+#HSLIDE
 ## In the beginning...
 
 - Began in Amsterdam Late 2003

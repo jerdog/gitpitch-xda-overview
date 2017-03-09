@@ -176,8 +176,8 @@
 
 #HSLIDE
 ## Get XDA Labs
-![Image-Absolute](assets/xda_labs_qr_big-300x300.png)
-https://www.xda-developers.com/xda-labs/
+![Image-Absolute](assets/xda_labs_qr_big-300x300.png)  
+- https://www.xda-developers.com/xda-labs/
 
 #HSLIDE
 ## Questions
